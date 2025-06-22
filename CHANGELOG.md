@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/uybinhphan/quiz-abic/compare/v1.0.0...v1.0.1) (2025-06-22)
+
+
+### Bug Fixes
+
+* update data ([04814d4](https://github.com/uybinhphan/quiz-abic/commit/04814d4ff1c53eca6ba16b5ab09fe156c9758310))
+
 ## 1.0.0 (2025-06-22)
 
 
