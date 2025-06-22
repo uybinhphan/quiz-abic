@@ -1,5 +1,33 @@
 # Changelog
 
+## 1.0.0 (2025-06-22)
+
+
+### Features
+
+* add release and PR automation workflows ([#10](https://github.com/uybinhphan/quiz-abic/issues/10)) ([8351cca](https://github.com/uybinhphan/quiz-abic/commit/8351ccac0cc972363123c5a96530cc1ad1288562))
+* Enhance data handling, filenaming, and deployment pipeline ([#43](https://github.com/uybinhphan/quiz-abic/issues/43)) ([33de58c](https://github.com/uybinhphan/quiz-abic/commit/33de58c834b25f1ffe908a58c0c9125d20eff852))
+* enhance quiz app styling and layout ([#1](https://github.com/uybinhphan/quiz-abic/issues/1)) ([419ce78](https://github.com/uybinhphan/quiz-abic/commit/419ce78cc46b7d9bd14acb33f81bd8517e4c379d))
+* Implement Top Navigation Bar and Sticky Quiz HeaderDevelop ([#45](https://github.com/uybinhphan/quiz-abic/issues/45)) ([0839fb3](https://github.com/uybinhphan/quiz-abic/commit/0839fb349bdeb31cb260cda00812a974583d7cbd))
+* update release and PR workflows ([#9](https://github.com/uybinhphan/quiz-abic/issues/9)) ([c392205](https://github.com/uybinhphan/quiz-abic/commit/c392205be77737700d245cf9de0946ec7abfa61e))
+* use release-please ([c7c6bc0](https://github.com/uybinhphan/quiz-abic/commit/c7c6bc0c3c10fd103efcaf194a35883da5d82e1d))
+
+
+### Bug Fixes
+
+* add new quiz data ([#36](https://github.com/uybinhphan/quiz-abic/issues/36)) ([d04cef0](https://github.com/uybinhphan/quiz-abic/commit/d04cef06545d572af4c4f99385eca0eb140b5f11))
+* change navigation buttons positions ([#38](https://github.com/uybinhphan/quiz-abic/issues/38)) ([caa4e35](https://github.com/uybinhphan/quiz-abic/commit/caa4e350aed5632f6c91877d9555863230496b03))
+* deploy only runs after release ([#26](https://github.com/uybinhphan/quiz-abic/issues/26)) ([f867379](https://github.com/uybinhphan/quiz-abic/commit/f867379bf62b069afe228dadd1a9249502dc97fb))
+* **deploy:** add js folder to dist for gh-page ([#52](https://github.com/uybinhphan/quiz-abic/issues/52)) ([e1cd57a](https://github.com/uybinhphan/quiz-abic/commit/e1cd57a794303762e5934b6f10785c601e429279))
+* **deploy:** correct manifest paths from ./data-compressed/ to data/ ([#33](https://github.com/uybinhphan/quiz-abic/issues/33)) ([6853326](https://github.com/uybinhphan/quiz-abic/commit/68533269275ba9d253c3ff5d2aaecaf842e64626))
+* improve release and deploy workflows ([#11](https://github.com/uybinhphan/quiz-abic/issues/11)) ([6c6fcc1](https://github.com/uybinhphan/quiz-abic/commit/6c6fcc1841728032a6495fc8a24a2346896c4683))
+* **layout:** Increase top padding for sticky quiz header ([#47](https://github.com/uybinhphan/quiz-abic/issues/47)) ([e00fedf](https://github.com/uybinhphan/quiz-abic/commit/e00fedf015b1beba259812b7067d34debba6e1cf))
+* package-name in release.yml ([#41](https://github.com/uybinhphan/quiz-abic/issues/41)) ([fa92d4f](https://github.com/uybinhphan/quiz-abic/commit/fa92d4f82ac98ba10fa9e0f9148fb81b798d6087))
+* Remove setting secret in readme ([#29](https://github.com/uybinhphan/quiz-abic/issues/29)) ([4c43cc4](https://github.com/uybinhphan/quiz-abic/commit/4c43cc44ec4daff0deb99be84934f6fff167ba86))
+* update convert.js to fix sorting filename ([c807f96](https://github.com/uybinhphan/quiz-abic/commit/c807f964e09ab601fb0400ccec7612f2aaced757))
+* update excel files ([#54](https://github.com/uybinhphan/quiz-abic/issues/54)) ([c464f22](https://github.com/uybinhphan/quiz-abic/commit/c464f22cc44458d54879937594f3e01c6c2b1657))
+* update semantic pull request action authentication ([#8](https://github.com/uybinhphan/quiz-abic/issues/8)) ([df8ab3d](https://github.com/uybinhphan/quiz-abic/commit/df8ab3df16b8564ae730cfe57d84c327c857abc0))
+
 ## [1.2.4](https://github.com/uybinhphan/quiz-nghiep-vu/compare/v1.2.3...v1.2.4) (2025-05-17)
 
 
