@@ -1,0 +1,723 @@
+{
+  "originalDisplayName": "7d. Cau hoi Chuong 7_Cac san pham BH D",
+  "questions": [
+    {
+      "question": "Theo đơn bảo hiểm tai nạn lái, phụ xe và người ngồi trên xe, doanh nghiệp bảo hiểm sẽ trả tiền bảo hiểm cho người ngồi trên xe thiệt hại về thân thể, tính mạng do:",
+      "options": [
+        "Tai nạn xảy ra đối với người ngồi trên xe trong quá trình xe tham gia giao thông.",
+        "Tai nạn xảy ra đối với người đang lên xuống xe trong quá trình xe tham gia giao thông.",
+        "Tai nạn xảy ra đối với người ngồi trên xe khi xe không tham gia giao thông.",
+        "A, B đúng"
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Mức trách nhiệm bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe là:",
+      "options": [
+        "Mức trách nhiệm bảo hiểm/vụ tổn thất.",
+        "Mức trách nhiệm bảo hiểm/mỗi và mọi vụ tổn thất.",
+        "Không có phương án nào đúng.",
+        ""
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Theo đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hoá vận chuyển trên xe (không kèm điều khoản sửa đổi bổ sung), doanh nghiệp bảo hiểm không bồi thường cho người được bảo hiểm đối với hàng hóa bị tổn thất trong trường hợp nào sau đây:",
+      "options": [
+        "Hàng hóa bị tổn thất trong quá trình xếp dỡ.",
+        "Hàng hóa bị hư hỏng do bao bì đóng gói.",
+        "Hàng hóa bị tổn thất do va chạm vào nhau trong quá trình vận chuyển.",
+        "A, B, C đúng."
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Theo đơn bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe (không kèm điều khoản sửa đổi bổ sung), trường hợp hàng hóa bị tổn thất trong quá trình xếp dỡ hàng, doanh nghiệp bảo hiểm có bồi thường cho người được bảo hiểm không:",
+      "options": [
+        "Có",
+        "Không",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Trường hợp nào sau đây thuộc trách nhiệm bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe:",
+      "options": [
+        "Nước mưa chảy qua lỗ thủng bạt che làm hàng hóa bị tổn thất",
+        "Xe bị nổ lốp gây tai nạn làm hàng hóa trên xe bị tổn thất",
+        "Hàng hóa bị tổn thất do mốc trong quá trình vận chuyển.",
+        "Hàng bị tổn thất do va đập vào nhau trong quá trình vận chuyển."
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe: Trường hợp hàng hóa bị mất cắp trong quá trình vận chuyển, doanh nghiệp bảo hiểm có bồi thường cho người được bảo hiểm không?",
+      "options": [
+        "Có.",
+        "Không.",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Bồi thường bảo hiểm trách nhiệm dân sự của chủ xe đối với hàng hóa trên xe/vụ tổn thất được hiểu là:",
+      "options": [
+        "Trong mọi trường hợp, tổng số tiền bồi thường không được vượt quá mức trách nhiệm bảo hiểm/vụ tổn thất",
+        "Không giới hạn số lượng các vụ tổn thất trong suốt thời hạn bảo hiểm.",
+        "Trường hợp trong thời hạn bảo hiểm xảy ra nhiều vụ tổn thất, tổng số tiền bồi thường hàng hóa bị tổn thất trong suốt thời hạn bảo hiểm không vượt quá tổng mức trách nhiệm bảo hiểm.",
+        "A, B đúng."
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Phạm vi bảo hiểm của bảo hiểm trách nhiệm dân sự xe cơ giới là: Thiệt hại ngoài hợp đồng về thân thể, tính mạng và tài sản đối với bên thứ ba do xe cơ giới gây ra. Trách nhiệm bồi thường thiệt hại ngoài hợp đồng được hiểu là:",
+      "options": [
+        "Bên có nghĩa vụ dân sự đã cam kết trong hợp đồng mà không thực hiện hoặc thực hiện không đúng nghĩa vụ sẽ phải bồi thường cho bên kia.",
+        "Hành vi gây hại không liên quan đến việc thực hiện nghĩa vụ dân sự của bất kỳ hợp đồng nào.",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, bảo hiểm bắt buộc bao gồm:",
+      "options": [
+        "Bảo hiểm bắt buộc tai nạn người ngồi trên xe cơ giới",
+        "Bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới.",
+        "Bảo hiểm bắt buộc thiệt hại vật chất xe cơ giới.",
+        "A, B, C đúng"
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Trong thời hạn bảo hiểm của hợp đồng bảo hiểm thiệt hại vật chất xe cơ giới, xe bị kẻ trộm đập kính lấy tài sản bên trong xe. Trường hợp này, doanh nghiệp bảo hiểm bồi thường cho người được bảo hiểm:",
+      "options": [
+        "Tổn thất đối với kính xe.",
+        "Tổn thất (mất cắp) đối với tài sản trong xe.",
+        "A, B đúng.",
+        ""
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Theo đơn bảo hiểm thiệt hại vật chất xe cơ giới, doanh nghiệp bảo hiểm không chịu trách nhiệm đối với những rủi ro xảy ra do:",
+      "options": [
+        "Đâm va, lật đổ, chìm, rơi toàn bộ xe.",
+        "Hỏa hoạn, cháy, nổ.",
+        "Thiệt hại săm lốp, chụp lốp, nhãn, đề can, bạt, chắn bùn, biểu tượng trừ trường hợp các bộ phận trên tổn thất do tai nạn.",
+        "A, B, C sai."
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Xe ô tô tham gia bảo hiểm thiệt hại vật chất (không tham gia điều khoản thay thế mới). Chọn phương án đúng nhất trong trường hợp xe bị tổn thất bộ phận thì chi phí khắc phục được hiểu là:",
+      "options": [
+        "Chi phí sửa chữa, thay thế (đã trừ khấu hao).",
+        "Chi phí sửa chữa, thay thế và chi phí hợp lý khác như: bảo vệ hiện trường, cứu hộ. di chuyển tài sản…",
+        "Chi phí sửa chữa, thay thế (đã trừ khấu hao) và chi phí hợp lý khác như: bảo vệ hiện trường, cứu hộ. di chuyển tài sản…",
+        ""
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Trong thời hạn bảo hiểm của hợp đồng bảo hiểm thiệt hại vật chất xe ô tô, trường hợp xe bị tai nạn dẫn đến thiệt hại và lốp xe bị nổ, xe bị tổn thất toàn bộ, doanh nghiệp bảo hiểm chi trả bồi thường như  thế nào:",
+      "options": [
+        "Bồi thường toàn bộ thiệt hại bao gồm cả chiếc lốp bị nổ.",
+        "Bồi thường toàn bộ thiệt hại trừ chiếc lốp bị nổ.",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Trong bảo hiểm thiệt hại vật chất xe ô tô, những tài liệu nào sau đây được sử dụng để làm căn cứ xác định giá trị xe nhằm xác định số tiền bảo hiểm:",
+      "options": [
+        "Hóa đơn mua bán xe.",
+        "Hóa đơn thuế trước bạ.",
+        "Bảng giá xe để tính thuế của cơ quan thuế.",
+        "A, B đúng.",
+        "A, B, C đúng."
+      ],
+      "correctAnswerIndex": 4,
+      "source": ""
+    },
+    {
+      "question": "Cả xe A và xe B đều tham gia bảo hiểm tai nạn lái, phụ xe và người ngồi trên xe theo hai hợp đồng bảo hiểm khác nhau tại doanh nghiệp bảo hiểm X. Chủ xe A đã điều khiển xe B gây tai nạn và bị thương tật. Trường hợp này doanh nghiệp bảo hiểm X sẽ trả tiền bảo hiểm cho người được bảo hiểm như thế nào:",
+      "options": [
+        "Không trả tiền bảo hiểm.",
+        "Trả tiền theo số tiền bảo hiểm thỏa thuận tại hợp đồng bảo hiểm của xe A.",
+        "Trả tiền theo số tiền bảo hiểm thỏa thuận tại hợp đồng bảo hiểm của xe B.",
+        "Trả tiền theo hợp đồng bảo hiểm có số tiền bảo hiểm thỏa thuận lớn nhất."
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Trường hợp lái xe A tham gia bảo hiểm tai nạn lái, phụ xe và người ngồi trên xe ở hai doanh nghiệp bảo hiểm (DNBH) X và DNBH Y. Trong thời hạn bảo hiểm, lái xe A bị tai nạn dẫn đến tử vong. Trường hợp này, các DNBH sẽ chi trả bảo hiểm như thế nào?",
+      "options": [
+        "DNBH X và DNBH Y chi trả theo tỷ lệ giữa số tiền bảo hiểm của từng hợp đồng bảo hiểm trên tổng số tiền bảo hiểm của hai hợp đồng bảo hiểm.",
+        "Cả DNBH X và DNBH Y đều chi trả 10% số tiền bảo hiểm đã thỏa thuận tại hợp đồng bảo hiểm.",
+        "DNBH nào có hợp đồng bảo hiểm với số tiền bảo hiểm lớn hơn thực hiện chi trả.",
+        "Chi trả theo hợp đồng bảo hiểm được giao kết trước."
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo bảo hiểm tai nạn lái, phụ xe và người ngồi trên xe trường hợp xảy ra thiệt hại về thân thể, tính mạng do tai nạn sẽ bồi thường :",
+      "options": [
+        "Người ngồi trên xe khi đang ở trên xe, lên xuống xe trong quá trình xe tham gia giao thông",
+        "Lái xe, phụ xe liên quan trực tiếp đến việc sử dụng chiếc xe đó.",
+        "A và B đúng",
+        "A và B sai"
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Theo đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe: Trường hợp xe cơ giới bị tai nạn dẫn đến hàng hóa vận chuyển trên xe bị tổn thất, doanh nghiệp bảo hiểm có bồi thường cho người được bảo hiểm chi phí xếp dỡ, bảo quản hàng hóa bị tổn thất không:",
+      "options": [
+        "Có.",
+        "Không.",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Tổng số tiền bồi thường hàng hóa khi tham gia bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe và chi phí (chi phí ngăn ngừa tổn thất, chi phí bảo quản, xếp dỡ, lưu kho...) có thể vượt quá mức trách nhiệm bảo hiểm/vụ tổn thất (thuộc phạm vi bảo hiểm). Phát biểu trên là:",
+      "options": [
+        "Đúng",
+        "Sai",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Chọn phương án đúng về số tiền bồi thường trong đơn bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe:",
+      "options": [
+        "Số tiền bồi thường có thể vượt quá mức trách nhiệm bảo hiểm/vụ tổn thất.",
+        "Số tiền bồi thường không được vượt quá mức trách nhiệm bảo hiểm/vụ tổn thất.",
+        "Số tiền bồi thường không được vượt quá mức trách nhiệm bảo hiểm/Mỗi và mọi vụ tổn thất.",
+        "A, B, C sai."
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Theo đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe: Trong quá trình vận chuyển, do chủ xe cơ giới (lái xe) che chắn không cẩn thận nên khi mưa đã làm hàng bị tổn thất. Trường hợp này, doanh nghiệp bảo hiểm có bồi thường cho người được bảo hiểm không?",
+      "options": [
+        "Có.",
+        "Không.",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Trong đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa vận chuyển trên xe, doanh nghiệp bảo hiểm sẽ bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với:",
+      "options": [
+        "Hành lý, hàng hóa trên xe du lịch.",
+        "Hành lý, hàng hóa trên xe khách.",
+        "Hàng hóa trong quá trình vận chuyển trên xe cơ giới (được phép kinh doanh vận tải hàng hóa) theo hợp đồng vận chuyển giữa chủ xe và chủ hàng.",
+        "A, B, C đúng."
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Phát biểu sau là đúng hay sai: “ Trong quá trình vận chuyển súc vật sống nếu bị ốm, chết do dịch bệnh thì doanh nghiệp bảo hiểm có trách nhiệm bồi thường thiệt hại cho chủ hàng\":",
+      "options": [
+        "Đúng",
+        "Sai",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe: Trường hợp xe cơ giới chở hàng hóa và bị mất cắp toàn bộ (cả xe và hàng), doanh nghiệp bảo hiểm có bồi thường cho người được bảo hiểm không?",
+      "options": [
+        "Сó.",
+        "Không.",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Theo đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe: Trong quá trình vận chuyển, do xếp hàng không đúng quy cách nên hàng va đập vào nhau và bị tổn thất. Trường hợp này có thuộc phạm vi bảo hiểm không:",
+      "options": [
+        "Có.",
+        "Không",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa vận chuyển trên xe, doanh nghiệp bảo hiểm có bồi thường cho tổn thất của hàng hóa trên xe bị mốc trong quá trình vận chuyển không:",
+      "options": [
+        "Có",
+        "Không",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo pháp luật Việt Nam về kinh doanh bảo hiểm, thời hạn bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới là:",
+      "options": [
+        "Tối thiểu là 1 năm và tối đa là 3 năm, tùy vào loại xe cơ giới, trừ các trường hợp thời hạn bảo hiểm dưới 1 năm.",
+        "Tối thiểu là 1 năm và tối đa là 3 năm, trừ các trường hợp thời hạn bảo hiểm dưới 1 năm theo quy định của pháp luật.",
+        "Tối thiểu là 1 năm và tối đa tương ứng với thời hạn kiểm định an toàn kỹ thuật và bảo vệ môi trường.",
+        "Tối thiểu là 1 năm và tối đa tương ứng với thời hạn kiểm định an toàn kỹ thuật và bảo vệ môi trường có thời hạn trên 1 năm."
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm trách nhiệm, chọn đáp án đúng để điền vào chỗ ……………..: \"Doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài …………….thay mặt người được bảo hiểm để thương lượng với người thứ ba về mức độ bồi thường thiệt hại, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm\".",
+      "options": [
+        "Không được",
+        "Có quyền",
+        "Bắt buộc phải",
+        "A, B, C sai"
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo pháp luật Việt Nam về kinh doanh bảo hiểm, trong bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới, trường hợp đã xác định được vụ tai nạn thuộc phạm vi bồi thường thiệt hại, doanh nghiệp bảo hiểm phải tạm ứng bồi thường đối với thiệt hại về sức khỏe, tính mạng là bao nhiêu % mức bồi thường bảo hiểm ước tính theo quy định cho một người trong một vụ tai nạn đối với trường hợp tổn thương bộ phận:",
+      "options": [
+        "10%.",
+        "30%.",
+        "50%.",
+        "70%."
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Theo pháp luật Việt Nam về kinh doanh bảo hiểm, trong hồ sơ bồi thường bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới, tài liệu liên quan đến xe cơ giới, người lái xe gồm:",
+      "options": [
+        "Giấy chứng nhận đăng ký xe (hoặc bản sao được chứng thực từ bản chính Giấy chứng nhận đăng ký xe kèm bản gốc Giấy biên nhận của tổ chức tín dụng còn hiệu lực, thay cho bản chính Giấy chứng nhận đăng ký xe trong thời gian tổ chức tín dụng giữ bản chính Giấy chứng nhận đăng ký xe) hoặc chứng từ chuyển quyền sở hữu xe và chứng từ nguồn gốc xe (trường hợp không có Giấy chứng nhận đăng ký xe).",
+        "Giấy phép lái xe; Giấy chứng nhận bảo hiểm.",
+        "Giấy chứng minh nhân dân hoặc thẻ Căn cước công dân hoặc Hộ chiếu hoặc các giấy tờ tùy thân khác của người lái xe.",
+        "A, B, C đúng."
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Theo pháp luật Việt Nam về kinh doanh bảo hiểm, trong bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới, căn cứ vào lịch sử bồi thường bảo hiểm của từng xe cơ giới hoặc lịch sử gây tai nạn của chủ xe cơ giới, doanh nghiệp bảo hiểm chủ động xem xét, điều chỉnh tăng, giảm phí bảo hiểm, tối đa bao nhiêu % trên mức phí bảo hiểm theo quy định của pháp luật?",
+      "options": [
+        "10%.",
+        "15%.",
+        "20%.",
+        "25%."
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, trong bảo hiểm trách nhiệm dân sự:",
+      "options": [
+        "Người thứ ba không có quyền trực tiếp yêu cầu doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài bồi thường, trừ trường hợp pháp luật có quy định khác",
+        "Người thứ ba được trực tiếp yêu cầu doanh nghiệp bảo hiểm bồi thường.",
+        "Doanh nghiệp bảo hiểm có quyền thay mặt người được bảo hiểm để thương lượng với người thứ ba về mức độ bồi thường thiệt hại, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm.",
+        "A, C đúng."
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm trách nhiệm, trách nhiệm của doanh nghiệp bảo hiểm phát sinh khi:",
+      "options": [
+        "Ngay khi người được bảo hiểm gây ra thiệt hại cho người thứ ba.",
+        "Người thứ ba yêu cầu người được bảo hiểm bồi thường do có hành vi gây thiệt hại cho người thứ ba trong thời hạn bảo hiểm.",
+        "A, B đúng",
+        "A, B sai"
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Theo pháp luật Việt Nam về kinh doanh bảo hiểm, trong bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới, trong vòng bao lâu doanh nghiệp bảo hiểm phải tổ chức thực hiện việc giảm định tổn thất xác định nguyên nhân và mức độ tổn thất làm căn cứ giải quyết bồi thường bảo hiểm khi nhận được thông báo về tai nạn?",
+      "options": [
+        "01 giờ.",
+        "12 giò.",
+        "24 giờ.",
+        "48 giờ."
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Chọn phương án đúng nhất về trách nhiệm bồi thường thiệt hại ngoài hợp đồng:",
+      "options": [
+        "Được xác định trên cơ sở các nghĩa vụ dân sự hình thành theo thỏa thuận giữa các bên trong một hợp đồng.",
+        "Là trách nhiệm phát sinh trên cơ sở các nghĩa vụ dân sự do Bộ luật dân sự quy định cho các chủ thế.",
+        "Hành vi gây hại không liên quan đến việc thực hiện nghĩa vụ dân sự của bất kỳ hợp đồng nào. Việc xác định trách nhiệm bồi thường dựa trên cơ sở quy định chung của Bộ luật dân sự.",
+        "A, C đúng.",
+        "B, C đúng."
+      ],
+      "correctAnswerIndex": 4,
+      "source": ""
+    },
+    {
+      "question": "Mức trách nhiệm bảo hiểm đối với thiệt hại về tài sản do xe gắn máy (kể cả xe máy điện) và các loại xe tương tự theo quy định:",
+      "options": [
+        "200 triệu",
+        "150 triệu",
+        "100 triệu",
+        "50 triệu"
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Bảo hiểm trách nhiệm dân sự bắt buộc xe cơ giới, doanh nghiệp bảo hiểm theo quy định phải có thời hạn giám định tổn thất xác định nguyên nhân và mức độ tổn thất làm căn cứ giải quyết bồi thường bảo hiểm:",
+      "options": [
+        "Trong vòng 1h",
+        "Trong vòng 12h",
+        "Trong vòng 24h",
+        "Trong vòng 48h"
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Theo quy định, thời hạn bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới?",
+      "options": [
+        "Tối thiểu là 1 năm và tối đa là 3 năm, theo luật quy định",
+        "Tối thiểu là 1 năm và tối đa là 3 năm, theo loại xe cơ giới",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Trong bảo hiểm bắt buộc TNDS của chủ xe cơ giới, khi tai nạn xảy ra, trường hợp chủ xe cơ giới chết hoặc bị thương tật toàn bộ vĩnh viễn, doanh nghiệp bảo hiểm bồi thưởng trực tiếp cho:",
+      "options": [
+        "Chủ xe cơ giới",
+        "Lái xe",
+        "Người đại diện của chủ xe cơ giới",
+        "Người bị thiệt hại"
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Theo đơn bảo hiểm thiệt hại vật chất xe cơ giới, khi xảy ra sự kiện bảo hiểm, doanh nghiệp bảo hiểm bồi thường cho người được bảo hiểm những trường hợp thiệt hại, chi phí nào sau đây:",
+      "options": [
+        "Đâm va, lật đổ, chìm, rơi toàn bộ xe.",
+        "Mật toàn bộ xe do trộm, cướp.",
+        "Chi phí cứu hộ và vận chuyển xe bị thiệt hại tới nơi sửa chữa gần nhất.",
+        "A, B, C đúng."
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Trong thời hạn bảo hiểm của hợp đồng bảo hiểm thiệt hại vật chất xe cơ giới, trường hợp xe bị nổ lốp gây ra tai nạn dẫn đến tổn thất toàn bộ xe, doanh nghiệp bảo hiểm chi trả bồi thường như thế nào:",
+      "options": [
+        "Bồi thường toàn bộ thiệt hại.",
+        "Bồi thường toàn bộ thiệt hại nhưng trừ chiếc lốp bị nỗ.",
+        "Bồi thường toàn bộ thiệt hại nhưng trừ toàn bộ lốp của xe bị tai nạn.",
+        "A, B, C sai."
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo đơn bảo hiểm thiệt hại vật chất xe ô tô, phát biểu nào sau đây là đúng nhất:",
+      "options": [
+        "Chủ xe ô tô có thể thỏa thuận tham gia bảo hiểm với số tiền bảo hiểm cho xe ô tô bằng hoặc thấp hơn giá trị thị trường của xe ô tô.",
+        "Chủ xe ôtô chỉ có thể tham gia bảo hiểm với số tiền bảo hiểm cho xe ôtô bằng giá trị thị trường của xe ô tô.",
+        "Chủ xe ô tô có thể tham gia bảo hiểm với số tiền bảo hiểm cho xe ô tô cao hơn giá trị thị trường của xe ô tô.",
+        ""
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Theo đơn bảo hiểm thiệt hại vật chất xe cơ giới (không có Điều khoản sửa đổi bổ sung), doanh nghiệp bảo hiểm bồi thường cho người được bảo hiểm đối với thiệt hại vật chất xe cơ giới do tai nạn bất ngờ, không lường trước nào sau đây:",
+      "options": [
+        "Mất cắp, mất cướp toàn bộ xe (có kết luận của cơ quan Công an).",
+        "Mất cắp bộ phận xe.",
+        "Đá văng trên đường làm vỡ kính xe.",
+        "A, C đúng ."
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Theo đơn bảo hiểm thiệt hại vật chất xe ôtô (có kèm theo điều khoản sửa đổi bổ sung \"Bảo hiểm thiệt hại động cơ do hiện tượng thủy kích\"), doanh nghiệp bảo hiểm sẽ bồi thường cho các chi phí nào sau đây?",
+      "options": [
+        "Các chi phí sửa chữa, khắc phục những thiệt hại của động cơ do xe đi vào vùng ngập nước và/hoặc nước lọt vào động cơ gây hiện tượng thủy kích.",
+        "Chi phí khắc phục tổn thất xảy ra cho động cơ xe ô tô khi lái xe cố tình khởi động lại động cơ đã ngưng hoạt động sau khi xe được bảo hiểm bị ngập nước gây ra hiện tượng thủy kích.",
+        "A, B đúng.",
+        ""
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Theo đơn bảo hiểm thiệt hại vật chất xe cơ giới, chủ xe tham gia bảo hiểm dưới giá trị. Trường hợp xe bị tổn thất toàn bộ, khoản tiền thu được từ việc thanh lý xác xe có được phân bổ cho doanh nghiệp bảo hiểm và người được bảo hiểm theo tỷ lệ tham gia bảo hiểm dưới giá trị không?",
+      "options": [
+        "Có",
+        "Không.",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Trong bảo hiểm thiệt hại vật chất ô tô, những tài liệu nào sau đây được sử dụng để làm căn cứ xác định giá trị xe nhằm xác định số tiền bảo hiểm:",
+      "options": [
+        "Hóa đơn mua xe",
+        "Hóa đơn thuế trước bạ",
+        "Bảng giá xe để tính thuế của cơ quan thuế",
+        "A, B đúng",
+        "A, B, C đúng"
+      ],
+      "correctAnswerIndex": 4,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, doanh nghiệp bảo hiểm không được áp dụng điều khoản loại trừ trách nhiệm bảo hiểm về việc chậm thông báo trong trường hợp nào sau đây:",
+      "options": [
+        "Bên mua bảo hiểm chậm thông báo sự kiện bảo hiểm trong mọi trường hợp.",
+        "Bên mua bảo hiểm chậm thông báo sự kiện bảo hiểm do có sự kiện bất khả kháng",
+        "Bên mua bảo hiểm chậm thông báo sự kiện bảo hiểm do có sự kiện trở ngại khách quan.",
+        "B, C đúng"
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, thời hạn nộp hồ sơ yêu cầu bồi thường, trà tiên bảo hiểm theo hợp đồng bảo hiểm là:",
+      "options": [
+        "03 tháng kể từ ngày xảy ra sự kiện bảo hiểm",
+        "06 tháng kể từ ngày xảy ra sự kiện bảo hiểm",
+        "09 tháng kể từ ngày xảy ra sự kiện bảo hiểm",
+        "01 năm kể từ ngày xảy ra sự kiện bảo hiểm"
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, thời hạn yêu cầu trả tiền bảo hiểm hoặc bồi thường bảo hiểm theo hợp đồng bảo hiểm là:",
+      "options": [
+        "01 năm kể từ ngày xảy ra sự kiện bảo hiểm.",
+        "01 năm kể từ ngày người được bảo hiểm thông báo cho DNBH về việc xảy ra sự kiện bảo hiểm.",
+        "A, B đúng",
+        ""
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm tài sản, bên mua bảo hiểm và doanh nghiệp bảo hiểm có thể thỏa thuận hình thức bồi thường nào dưới đây:",
+      "options": [
+        "Sửa chữa tài sản bị thiệt hại",
+        "Thay thế tài sản bị thiệt hại bằng tài sản khác",
+        "Trả tiền bồi thường",
+        "A, B, C đúng"
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm theo hợp đồng bảo hiểm là:",
+      "options": [
+        "01 năm kể từ ngày xảy ra sự kiện bảo hiểm. Thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm.",
+        "01 năm kể từ ngày người được bảo hiểm thông báo cho doanh nghiệp bảo hiểm về việc xảy ra sự kiện bảo hiểm. Thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm.",
+        "A, B đúng.",
+        ""
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm theo hợp đồng bảo hiểm là:",
+      "options": [
+        "6 tháng kể từ ngày xảy ra sự kiện bảo hiểm.",
+        "01 năm kể từ ngày xảy ra sự kiện bảo hiểm.",
+        "02 năm kể từ ngày xảy ra sự kiện bảo hiểm.",
+        "03 năm kể từ ngày xảy ra sự kiện bảo hiểm."
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm kể từ ngày xảy ra sự kiện bảo hiểm theo hợp đồng bảo hiểm là:",
+      "options": [
+        "6 tháng (thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm).",
+        "1 năm (thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm).",
+        "2 năm (thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm).",
+        "3 năm (thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm)."
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, thời hạn phải bồi thường, trả tiền bảo hiểm cho bên mua bảo hiểm kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường, trả tiền bảo hiểm (trường hợp không có thỏa thuận về thời hạn bồi thường, trả tiền bảo hiểm) là:",
+      "options": [
+        "15 ngày",
+        "30 ngày",
+        "45 ngày",
+        "60 ngày"
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp không có thỏa thuận về thời hạn bồi thường, trả tiền bảo hiểm, doanh nghiệp bảo hiểm phải bồi thường, trả tiền bảo hiểm trong thời hạn bao nhiêu ngày kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường, trả tiền bảo hiểm:",
+      "options": [
+        "15 ngày.",
+        "30 ngày",
+        "45 ngày",
+        "60 ngày"
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp không có thỏa thuận trong hợp đồng bảo hiểm về thời hạn bồi thường, trả tiền bảo hiểm, doanh nghiệp bảo hiểm phải bồi thường, trả tiền bảo hiểm trong thời hạn:",
+      "options": [
+        "15 ngày kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường, trả tiền bảo hiểm.",
+        "30 ngày kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường, trả tiền bảo hiểm.",
+        "45 ngày kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường, trả tiền bảo hiểm.",
+        "60 ngày kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường, trả tiền bảo hiểm."
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp người được bảo hiểm hoặc người thụ hưởng chứng minh được rằng không biết thời điểm xảy ra sự kiện bảo hiểm thì thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm là:",
+      "options": [
+        "01 năm kể từ ngày xảy ra sự kiện bảo hiểm.",
+        "02 năm kể từ ngày xảy ra sự kiện bảo hiểm.",
+        "01 năm tính từ ngày người được bảo hiểm hoặc người thụ hưởng biết việc xảy ra sự kiện bảo hiểm đó.",
+        "02 năm tính từ ngày người được bảo hiểm hoặc người thụ hưởng biết việc xảy ra sự kiện bảo hiểm đó."
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm theo hợp đồng bảo hiểm là:",
+      "options": [
+        "03 tháng kể từ ngày xảy ra sự kiện bảo hiểm",
+        "06 tháng kể từ ngày xảy ra sự kiện bảo hiểm",
+        "09 tháng kể từ ngày xảy ra sự kiện bảo hiểm",
+        "01 năm kể từ ngày xảy ra sự kiện bảo hiểm"
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Doanh nghiệp bảo hiểm có quyền từ chối bồi thường, trả tiền bảo hiểm trong trường hợp:",
+      "options": [
+        "Sự kiện bảo hiểm xảy ra không thuộc phạm vi trách nhiệm bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
+        "Sự kiện bảo hiểm xảy ra thuộc các trường hợp loại trừ trách nhiệm bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
+        "Sự kiện bảo hiểm xảy ra trong thời gian gia hạn đóng phí bảo hiểm.",
+        "A, B đúng."
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, đối với các hợp đồng bảo hiểm (trừ bảo hiểm trách nhiệm), trường hợp không có thỏa thuận trong hợp đồng bảo hiểm và người được bảo hiểm hoặc người thụ hưởng không chứng minh được rằng không biết thời điểm xảy ra sự kiện bảo hiểm, thì thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm theo hợp đồng bảo hiểm là:",
+      "options": [
+        "03 tháng kể từ ngày xảy ra sự kiện bảo hiểm (trừ sự kiện bất khả kháng hoặc trở ngại khách quan)",
+        "01 năm kể từ ngày xảy ra sự kiện bảo hiểm (trừ sự kiện bất khả kháng hoặc trở ngại khách quan)",
+        "06 tháng kể từ ngày xảy ra sự kiện bảo hiểm (trừ sự kiện bất khả kháng hoặc trở ngại khách quan)",
+        "09 tháng kể từ ngày xảy ra sự kiện bảo hiểm (trừ sự kiện bất khả kháng hoặc trở ngại khách quan)"
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, trừ trường hợp có thỏa thuận trong hợp đồng bảo hiểm, thời hạn bồi thường, trả tiền bảo hiểm là:",
+      "options": [
+        "21 ngày kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường.",
+        "15 ngày kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường.",
+        "30 ngày kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường.",
+        "1 năm kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường."
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, khi xảy ra sự kiện bảo hiểm, doanh nghiệp bảo hiểm phải bồi thường, trả tiền bảo hiểm:",
+      "options": [
+        "Theo thời hạn đã thỏa thuận trong hợp đồng bảo hiểm.",
+        "Trong thời hạn 15 ngày kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường, trả tiền bảo hiểm (trường hợp không có thỏa thuận về thời hạn).",
+        "A, B đúng",
+        ""
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp bên mua bảo hiểm vì trở ngại khách quan dẫn đến chậm thông báo cho doanh nghiệp bảo hiểm về việc xảy ra sự kiện bảo hiểm, doanh nghiệp bảo hiểm có được áp dụng điều khoản loại trừ trách nhiệm bảo hiểm về việc chậm thông báo không:",
+      "options": [
+        "Có",
+        "Không",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, trong trường hợp người thứ ba yêu cầu bên mua bảo hiểm bồi thường về những thiệt hại thuộc trách nhiệm bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm thì thời hạn nộp hồ sơ yêu cầu bồi thường theo hợp đồng bảo hiểm là:",
+      "options": [
+        "Từ ngày người được bảo hiểm biết việc xảy ra sự kiện bảo hiểm đó.",
+        "Từ ngày người thứ ba yêu cầu.",
+        "Từ ngày người thụ hưởng biết việc xảy ra sự kiện bảo hiểm đó.",
+        "A, C đúng."
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp người thứ ba yêu cầu bên mua bảo hiểm bồi thường về những thiệt hại thuộc trách nhiệm bảo hiểm theo thoả thuận trong hợp đồng bảo hiểm thì thời hạn nộp hồ sơ yêu cầu bồi thường theo hợp đồng bảo hiểm được tính từ ngày nào? Thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hạn nộp hồ sơ yêu cầu bồi thường.",
+      "options": [
+        "1 năm kể từ ngày xảy ra sự kiện bảo hiểm.",
+        "1 năm kể từ ngày xảy ra tranh chấp.",
+        "1 năm kể từ ngày người thứ ba yêu cầu.",
+        "2 năm kể từ ngày người thứ ba yêu cầu."
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "originalDisplayName": "7a. Cau hoi Chuong 7_Cac san pham BH A",
+  "questions": [
+    {
+      "question": "Chọn phương án đúng nhất về xây dựng và ban hành quy tắc, điều khoản và biểu phí bảo hiểm theo Luật Kinh doanh bảo hiểm:",
+      "options": [
+        "Bộ Tài chính ban hành quy tắc, điều khoản bảo hiểm, mức phí bảo hiểm, số tiền bảo hiểm tối thiểu đối với từng loại hình bảo hiểm bắt buộc.",
+        "Các sản phẩm thuộc nghiệp vụ bảo hiểm nhân thọ, bảo hiểm sức khỏe, doanh nghiệp bảo hiểm phải đăng ký và được Bộ Tài chính chấp thuận phương pháp, cơ sở tính phí bảo hiểm trước khi triển khai .",
+        "Ngoài loại hình bảo hiểm bắt buộc, đối với các sản phẩm thuộc nghiệp vụ bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm chủ động xây dựng quy tắc, điều khoản, biểu phí bảo hiểm.",
+        "A, B đúng",
+        "A, B, C đúng."
+      ],
+      "correctAnswerIndex": 4,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây đúng nhất:",
+      "options": [
+        "Hợp đồng bảo hiểm hàng hải được thực hiện theo quy định của Bộ luật Hàng hải; nội dung không quy định tại Bộ luật Hàng hải thì thực hiện theo quy định của Luật Kinh doanh bảo hiểm.",
+        "Hợp đồng bảo hiểm hàng hải được áp dụng theo quy định của Luật Kinh doanh bảo hiểm; đối với những vấn đề mà Luật Kinh doanh bảo hiểm không quy định thì áp dụng theo quy định của Bộ luật hàng hải.",
+        "Nội dung liên quan đến hợp đồng bảo hiểm không được quy định trong Luật Kinh doanh bảo hiểm thì thực hiện theo quy định của Bộ luật Dân sự.",
+        "A, C đúng",
+        "A, B, C đúng."
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Chọn phương án đúng nhất theo Luật Kinh doanh bảo hiểm:",
+      "options": [
+        "Chính phủ quy định chi tiết về điều kiện bảo hiểm, mức phí bảo hiểm, số tiền bảo hiểm tối thiểu đối với bảo hiểm bắt buộc.",
+        "Các sản phẩm thuộc nghiệp vụ bảo hiểm nhân thọ, bảo hiểm sức khỏe phải được Bộ Tài chính chấp thuận phương pháp, cơ sở tính phí bảo hiểm trước khi triển khai.",
+        "Ngoài loại hình bảo hiểm bắt buộc, đối với các sản phẩm thuộc nghiệp vụ bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm chủ động xây dựng quy tắc, điều khoản, phương pháp, cơ sở tính phí bảo hiểm.",
+        "A, B đúng.",
+        "A, B, C đúng."
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, chọn phương án đúng nhất về bảo hiểm cháy, nổ bắt buộc:",
+      "options": [
+        "Là sản phẩm bảo hiểm do Chính phủ quy định chi tiết về điều kiện bảo hiểm, mức phí bảo hiểm",
+        "Là sản phẩm bảo hiểm do Chính phủ quy định chi tiết về điều kiện, số tiền bảo hiểm tối thiểu",
+        "Là sản phẩm bảo hiểm do Chính phủ quy định chi tiết về mức phí bảo hiểm, số tiền bảo hiểm tối thiểu",
+        "Là sản phẩm bảo hiểm do Chính phủ quy định chi tiết về điều kiện bảo hiểm, mức phí bảo hiểm, số tiền bảo hiểm tối thiểu"
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây là đúng về bảo hiểm bắt buộc:",
+      "options": [
+        "Doanh nghiệp bảo hiểm được phép triển khai bảo hiểm bắt buộc không được từ chối bán khi tổ chức, cá nhân đáp ứng đủ điều kiện mua bảo hiểm bắt buộc theo quy định của pháp luật.",
+        "Tổ chức, cá nhân thuộc đối tượng tham gia bảo hiểm bắt buộc có nghĩa vụ mua bảo hiểm bắt buộc và được lựa chọn tham gia bảo hiểm bắt buộc tại doanh nghiệp bảo hiểm được phép triển khai.",
+        "A, B đúng",
+        "A, B sai"
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, bảo hiểm bắt buộc không bao gồm:",
+      "options": [
+        "Bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới",
+        "Bảo hiểm cháy, nổ bắt buộc",
+        "Bảo hiểm khám chữa bệnh bắt buộc",
+        ""
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Theo pháp luật Việt Nam về kinh doanh bảo hiểm, chọn phương án đúng nhất về đối tượng phải mua bảo hiểm cháy, nổ bắt buộc:",
+      "options": [
+        "Cơ quan, tổ chức có cơ sở có nguy hiểm về cháy, nổ theo quy định của pháp luật phòng cháy và chữa cháy đối với bảo hiểm cháy, nổ bắt buộc.",
+        "Cá nhân có cơ sở có nguy hiểm về cháy, nổ theo quy định của pháp luật phòng cháy và chữa cháy đối với bảo hiểm cháy, nổ bắt buộc.",
+        "Cơ quan, tổ chức và cá nhân có cơ sở có nguy hiểm về cháy, nổ theo quy định của pháp luật phòng cháy và chữa cháy đối với bảo hiểm cháy, nổ bắt buộc.",
+        "Không có quy định."
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, sản phẩm bảo hiểm nào sau đây là bảo hiểm bắt buộc:",
+      "options": [
+        "Bảo hiểm trách nhiệm dân sự của người vận chuyển hàng không đối với hành khách.",
+        "Bảo hiểm trách nhiệm nghề nghiệp của doanh nghiệp môi giới bảo hiểm.",
+        "Bảo hiểm cháy, nổ bắt buộc",
+        "A, B, C đúng."
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, sản phẩm bảo hiểm nào sau đây không phải là bảo hiểm bắt buộc:",
+      "options": [
+        "Bảo hiểm cháy, nổ bắt buộc.",
+        "Bảo hiểm bắt buộc trách nhiệm nghề nghiệp.",
+        "Bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới.",
+        "Bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng."
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, sản phẩm bảo hiểm nào sau đây không phải là bảo hiểm bắt buộc? (chọn phương án đúng nhất)",
+      "options": [
+        "Bảo hiểm bắt buộc trách nhiệm công cộng",
+        "Bảo hiểm bắt buộc trách nhiệm sản phẩm",
+        "Bảo hiểm bắt buộc trách nhiệm nghề nghiệp môi giới tái bảo hiểm.",
+        "A, B, C đúng"
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, bảo hiểm bắt buộc là sản phẩm bảo hiểm nhằm mục đích:",
+      "options": [
+        "Bảo vệ lợi ích của người tham gia bảo hiểm.",
+        "Bảo vệ lợi ích công cộng, môi trường và an toàn xã hội.",
+        "Bảo vệ lợi ích của doanh nghiệp bảo hiểm.",
+        "A, B, C đúng."
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, bảo hiểm cháy, nổ bắt buộc do cơ quan nào ban hành quy định về điều kiện, mức phí bảo hiểm, số tiền bảo hiểm tối thiểu?",
+      "options": [
+        "Chính phủ",
+        "Bộ Công thương",
+        "Hiệp hội Bảo hiểm Việt Nam",
+        "Bộ Tài chính"
+      ],
+      "correctAnswerIndex": 0,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, bảo hiểm bắt buộc là sản phẩm bảo hiểm do Chính phủ quy định về:",
+      "options": [
+        "Điều kiện bảo hiểm, số tiền bảo hiểm tối thiểu.",
+        "Điều kiện bảo hiểm, mức phí bảo hiểm, số tiền bảo hiểm tối thiểu.",
+        "Điều kiện bảo hiểm, phí bảo hiểm tối thiểu.",
+        "Phí bảo hiểm, số tiền bảo hiểm tối thiểu."
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, bảo hiểm bắt buộc không bao gồm:",
+      "options": [
+        "Bảo hiểm bắt buộc thất nghiệp",
+        "Bảo hiểm bắt buộc thiệt hại vật chất xe ô tô.",
+        "Bảo hiểm cháy, nổ bắt buộc",
+        "A, B, C đúng"
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Doanh nghiệp bảo hiểm có quyền từ chối bán bảo hiểm cháy, nổ bắt buộc trong các trường hợp sau:",
+      "options": [
+        "Cơ sở chưa được nghiệm thu về phòng cháy và chữa cháy khi xây dựng mới, cải tạo hoặc thay đổi tính chất sử dụng",
+        "Cơ sở không có biên bản kiểm tra về phòng cháy và chữa chảy của cơ quan Cảnh sát phòng cháy và chữa cháy hoặc biên bản kiểm tra đã quá 01 năm tính từ thời điểm lập đến thời điểm mua bảo hiểm cháy, nổ bắt buộc",
+        "Cơ sở đang bị đình chỉ hoặc tạm đình chỉ hoạt động do vi phạm nghiêm trọng các quy định về phòng cháy và chữa cháy.",
+        "A, B, C đúng"
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Chọn phương án đúng về bảo hiểm trách nhiệm bắt buộc:",
+      "options": [
+        "Bảo hiểm trách nhiệm công cộng.",
+        "Bảo hiểm trách nhiệm sản phẩm.",
+        "Bảo hiểm trách nhiệm dân sự chủ tàu.",
+        "Bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới"
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây sai về bảo hiểm bắt buộc:",
+      "options": [
+        "Bảo hiểm bắt buộc là sản phẩm bảo hiểm nhằm mục đích bảo vệ lợi ích công cộng, môi trường và an toàn xã hội.",
+        "Chính phủ quy định chi tiết về điều kiện bảo hiểm, mức phí bảo hiểm, số tiền bảo hiểm tối thiểu đối với bảo hiểm bắt buộc",
+        "Chính phủ quy định chi tiết về điều kiện bảo hiểm, mức phí bảo hiểm, số tiền bảo hiểm tối đa đối với bảo hiểm bắt buộc",
+        ""
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, nghiệp vụ bảo hiểm nào sau đây không phải nghiệp vụ bảo hiểm bắt buộc:",
+      "options": [
+        "Bảo hiểm cháy, nổ",
+        "Bảo hiểm Hỏa hoạn và các rủi ro đặc biệt",
+        "Bảo hiểm Trách nhiệm dân sự của chủ xe cơ giới",
+        "Bảo hiểm Trách nhiệm nghề nghiệp tư vấn thiết kế xây dựng"
+      ],
+      "correctAnswerIndex": 1,
+      "source": ""
+    },
+    {
+      "question": "Theo Luật Kinh doanh bảo hiểm, bảo hiểm bắt buộc không bao gồm:",
+      "options": [
+        "Bảo hiểm cháy, nổ bắt buộc.",
+        "Bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới.",
+        "Bảo hiểm sức khỏe bắt buộc.",
+        "Bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng."
+      ],
+      "correctAnswerIndex": 2,
+      "source": ""
+    },
+    {
+      "question": "Theo pháp luật Việt Nam về kinh doanh bảo hiểm, ngoài việc tham gia bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng theo điều kiện bảo hiểm, mức phí bảo hiểm, số tiền bảo hiểm tối thiểu hoặc giới hạn trách nhiệm bảo hiểm theo quy định pháp luật, bên mua bảo hiểm và doanh nghiệp bảo hiểm có thể:",
+      "options": [
+        "Thỏa thuận mở rộng quy tắc, điều khoản bảo hiểm, số tiền bảo hiểm thấp hơn.",
+        "Không được thỏa thuận mở rộng quy tắc, điều khoản bảo hiểm.",
+        "Thỏa thuận phí bảo hiểm và không phải tách riêng.",
+        "Thỏa thuận tại hợp đồng bảo hiểm về mở rộng điều kiện bảo hiểm, số tiền bảo hiểm tăng thêm và mức phí bảo hiểm bổ sung tương ứng phù hợp với quy định pháp luật."
+      ],
+      "correctAnswerIndex": 3,
+      "source": ""
+    }
+  ]
+}

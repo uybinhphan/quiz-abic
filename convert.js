@@ -38,7 +38,7 @@ function parseQuizData(jsonData, sourceFilename) {
      const headers = jsonData[0].map(h => (h ? h.toString().trim().toLowerCase() : ""));
      const expectedHeaders = {
          question: "câu hỏi", opt1: "đáp án 1", opt2: "đáp án 2", opt3: "đáp án 3",
-         opt4: "đáp án 4", correct: "đáp án đúng", source: "trích dẫn nguồn"
+         opt4: "đáp án 4", opt5: "đáp án 5", correct: "đáp án đúng", source: "trích dẫn nguồn"
      };
      const colIndices = {};
      let missingHeaders = [];
@@ -55,7 +55,10 @@ function parseQuizData(jsonData, sourceFilename) {
          throw new Error(`Missing required columns in '${sourceFilename}': ${missingHeaders.join(', ')} (case-insensitive).`);
      }
      if (colIndices.source === -1) {
-         console.warn(`[Parsing] Column 'trích dẫn nguồn' not found in '${sourceFilename}'. Source will be 'N/A'.`);
+         console.warn(`[Parsing] Column 'trích dẫn nguồn' not found in '${sourceFilename}'. Source will be empty.`);
+     }
+      if (colIndices.opt5 === -1) {
+         console.warn(`[Parsing] Column 'đáp án 5' not found in '${sourceFilename}'. Questions will have a maximum of 4 options.`);
      }
 
      const parsedQuestions = [];
@@ -73,12 +76,23 @@ function parseQuizData(jsonData, sourceFilename) {
              row[colIndices.opt3] ? String(row[colIndices.opt3]).trim() : "",
              row[colIndices.opt4] ? String(row[colIndices.opt4]).trim() : ""
          ];
+         
+         // Conditionally add the 5th option if the column exists and the cell is not empty
+         const hasOpt5Column = colIndices.opt5 !== -1;
+         const opt5Value = hasOpt5Column && row[colIndices.opt5] ? String(row[colIndices.opt5]).trim() : "";
+         
+         if (hasOpt5Column && opt5Value) {
+            options.push(opt5Value);
+         }
+
          const correctAnswerRaw = row[colIndices.correct] ? String(row[colIndices.correct]).trim() : "";
-         const sourceText = (colIndices.source !== -1 && row[colIndices.source]) ? String(row[colIndices.source]).trim() : "N/A";
+         const sourceText = (colIndices.source !== -1 && row[colIndices.source]) ? String(row[colIndices.source]).trim() : "";
 
          if (!questionText) {
              skipReason = "Missing 'Câu hỏi'";
          }
+
+         const maxValidAnswer = options.length;
          let correctAnswerNum = NaN;
          if (!skipReason) {
              if (correctAnswerRaw === '') {
@@ -87,8 +101,8 @@ function parseQuizData(jsonData, sourceFilename) {
                  correctAnswerNum = parseInt(correctAnswerRaw, 10);
                  if (isNaN(correctAnswerNum)) {
                      skipReason = `'Đáp án đúng' ("${correctAnswerRaw}") is not a valid number`;
-                 } else if (correctAnswerNum < 1 || correctAnswerNum > 4) {
-                     skipReason = `'Đáp án đúng' (${correctAnswerNum}) must be between 1 and 4`;
+                 } else if (correctAnswerNum < 1 || correctAnswerNum > maxValidAnswer) {
+                     skipReason = `'Đáp án đúng' (${correctAnswerNum}) must be between 1 and ${maxValidAnswer}`;
                  }
              }
          }
@@ -103,7 +117,7 @@ function parseQuizData(jsonData, sourceFilename) {
              question: questionText,
              options: options,
              correctAnswerIndex: correctAnswerNum - 1,
-             source: sourceText || "N/A"
+             source: sourceText || ""
          });
      }
 
